@@ -248,3 +248,7 @@ a.btn,.btn:focus {
 }
 
 
+#slogan > h2{
+    color:#e83732;
+    display: inline-flex;
+}

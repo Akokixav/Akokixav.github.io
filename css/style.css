@@ -87,15 +87,15 @@ a.navbar-brand span {
   border-radius: 0 0 0 0;
   text-transform:uppercase;
   font-weight:600;
-  color:#fff;
+  color:#000;
 }
 .nav-tabs > li > a:hover {
-	background-color: #36CBD4;
+	background-color: #e83732;
 }
 .nav-tabs > li.active > a {
 	color: #fff;
   cursor: default;
-  background-color:#36CBD4;
+  background-color:#e83732;
   border: 0;
   border-bottom-color: transparent;
 
