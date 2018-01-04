@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: eNno
-Theme URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-Author: BootstrapMade
+Theme Name: Tempo
+Theme URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
+Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
