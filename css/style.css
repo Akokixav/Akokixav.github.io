@@ -452,11 +452,18 @@ margin-top: 5px;
 .footer_copyright a {
     color: #e43c5c;
 }
-#banner
+#banner::before
 {
-    background: url('../img/marriott_school.jpg') no-repeat;
+
     background-size: cover;
     min-height: 500px;
+
+}
+
+#banner::after {
+	background: url('../img/marriott_school.jpg') no-repeat;
+	opacity:0.5;
+
 }
 .cta2 .btn-default,.cta2 .btn-default:hover,.cta2 .btn-default:focus
 {
