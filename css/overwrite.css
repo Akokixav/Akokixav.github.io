@@ -12,5 +12,11 @@ font-family: avenir light;
 }
 
 .special_pic{
+  imag
 
+}
+
+@font-face {
+  font-family: 'Coco Puff Regular';
+  src: url('http://www.fontsaddict.com/fontface/coco-puff-regular.ttf');
 }
