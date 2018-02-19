@@ -264,7 +264,7 @@ p.cta-sub-title
 }
 .img-sec, .fig-caption
 {
-	width: 50%;
+	width: 103%;
 	float: left;
 }
 .team-info
@@ -276,7 +276,7 @@ p.cta-sub-title
 }
 .fig-caption
 {
-	padding: 56px 20px 0px;
+	padding: 2px 20px 13px;
 }
 .fig-caption h3
 {
